@@ -29,10 +29,13 @@ This is a hands-on curriculum. We will start with learning how to use the code e
 
 ## Lessons
 
-### 1. The Code Editor + Simulator
+<div style="background-color: #00ac84ff; color: #fefefeff; padding:0.1rem 0.5rem;">
+<h3>1. The Code Editor + Simulator</h3>
+</div>
 
-> [!NOTE]
-> 30 minutes of instruction (for each student)
+### <span style="color: #00ac84ff">1. The Code Editor + Simulator</span>
+
+> Time Per Student: 30 minutes
 
 Before touching the board we will become familiar with the code editor + simulator provided on the MicroBit.org website. **Why?** It's important that students understand how to use the tool first.
 
@@ -41,7 +44,7 @@ Before touching the board we will become familiar with the code editor + simulat
 - **Project 3: Rotating Clock Arm** - Rotate a line 360° like the big hand on a clock
 - **Project 4: What is String?** - Using the "show string" block
 
-### 2. The Microbit, Buttons, and Choices
+### <span style="color: #9e00acff">2. The Microbit, Buttons, and Choices</span>
 
 > Time Per Student: 1 hour
 
@@ -52,7 +55,7 @@ Introducing butttons and the physcial MicroBit. There's nothing like seeing your
 - **Project 7: Freeze** - We will introduce a pause effect to Project 6 using that will hold the dot in place until we release it.
 - **Project 8: Countdown** - Make a count down timer that starts a random number. One button to reset and generate a random number. One button to start the timer. Two buttons to freeze the count.
 
-### 3. Interactions
+### <span style="color: #007bacff">3. Back and Forth</span>
 
 > Time Per Student: 2 hours
 
