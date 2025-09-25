@@ -29,10 +29,6 @@ This is a hands-on curriculum. We will start with learning how to use the code e
 
 ## Lessons
 
-<div style="background-color: #00ac84ff; color: #fefefeff; padding:0.1rem 0.5rem;">
-<h3>1. The Code Editor + Simulator</h3>
-</div>
-
 ### <span style="color: #00ac84ff">1. The Code Editor + Simulator</span>
 
 > Time Per Student: 30 minutes
