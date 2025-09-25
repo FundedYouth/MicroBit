@@ -29,10 +29,12 @@ This is a hands-on curriculum. We will start with learning how to use the code e
 
 ## Lessons
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 ### 1. The Code Editor + Simulator
 
-> [!NOTE] Time Per Student:
-> 30 minutes
+> Time Per Student: 30 minutes
 
 Before touching the board we will become familiar with the code editor + simulator provided on the MicroBit.org website. **Why?** It's important that students understand how to use the tool first.
 
