@@ -27,16 +27,63 @@ This is a hands-on curriculum. We will start with learning how to use the code e
 
 **Why this age?** We presume by 3rd grade most learners have a basic ability to read and do basic mathematics. Enough to be able to understand basic logic and take instruction.
 
-## Lessons
-
-### <span style="color: #00ac84ff">1. The Code Editor + Simulator</span>
-
-> Time Per Student: 30 minutes
-
 Before touching the board we will become familiar with the code editor + simulator provided on the MicroBit.org website. **Why?** It's important that students understand how to use the tool first.
 
-- **Project 1: Flashing Object** - Choose from pre-exising shapes
-- **Project 2: Back and Forth Dot** - Make a box move one space left to right without stopping
+### For every project do the following
+
+✅ Load Microbit Makecode in your Browser at: https://makecode.microbit.org/
+
+✅ Click on the **New Project** purple box
+
+✅ Name your project
+
+✅ Unless stated, we will be using block code.
+
+<img src="./images/microbit-makecode-website-homepage.png" />
+
+## Navigating Makecode Editor
+
+1. Let's go over the different parts of the **Microbit Makecode Editor**. Take a look at the screenshot below.
+
+<img src="./images/microbit-makecode-editor-basics.png" />
+
+- **Simulator:** This lets us tests out our code before connecting a device.
+- **Toolbox:** Where we find our code blocks
+- **Coding Language:** For most projects we will use "Blocks" but you can switch over to JavaScript or Python if you like. It is limited. It only shows functions. It does not include imports.
+- **Compile and Download:** Clicking this will connect to your Microbit, compile your code, and send it to the Microbit.
+- **Project Name:** You can set or change your project name here.
+- **Workspace:** Where we place our code blocks and logic.
+- **Undo / Redo:** Buttons that let you go back a step or forwards one step at time.
+- **Zoom In / Out:** Lets you zoom in on your code or zoom out to see more blocks on the Workspace.
+
+2. Starting blocks for every new project: **on start** and **forever**
+
+<img src="./images/microbit-makecode-on-start-and-forever-blocks.png" />
+
+You will not need these blocks for every project but they will appear for each new project you create.
+
+- **on start [Block]**: This runs once at the beginning. It's great for declaring values at the start that you might want to re-use.
+
+- **forever [Block]**: The says it all. This is a loop block. Whatever we put in here will constantly run over and over.
+
+## Lessons
+
+### <span style="color: #00ac84ff;">1. The Code Editor + Simulator</span>
+
+#### [Project 1: Flashing Object](./p1-flashing-objects.md)
+
+```yaml
+Expected Time Per Student: 30 minutes
+Description: Choose from existing shapes to make a blinking image
+```
+
+#### [Project 2: Back and Forth Dot](./p1-back-and-forth-dot.md)
+
+```yaml
+Expected Time Per Student: 30 minutes
+Description: Make a box move one space left to right without stopping
+```
+
 - **Project 3: Rotating Clock Arm** - Rotate a line 360° like the big hand on a clock
 - **Project 4: What is String?** - Using the "show string" block
 
