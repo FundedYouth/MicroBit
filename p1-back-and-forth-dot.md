@@ -55,6 +55,31 @@
 
 > Project Completed
 
-## Challenge
+<hr />
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 12px;">
+  <video controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 12px;">
+    <source src="./video/p1-back-and-forth-challenge-preview.mp4" type="video/mp4">
+    Around the Border Challenge
+  </video>
+</div>
+<br /><br />
+
+## Challenge: Around the Border
 
 1. Attempt to recreate the video challenge as shown. Move the dot around the outside without stopping.
+
+> [!TIP]
+> Try creating functions. This is not required but it helps to clean up the workspace.
+
+**Creating a Function Example Video**
+
+- Think of a function as a way to copy and re-use a set of instructions.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 12px;">
+  <video controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 12px;">
+    <source src="./video/p1-back-and-forth-function.mp4" type="video/mp4">
+    Create a new Function called: LeftToRight
+  </video>
+</div>
+<br /><br />
