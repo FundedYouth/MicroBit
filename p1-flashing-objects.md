@@ -1,5 +1,7 @@
 <img src="./images/p1-flashing-objects-preview.gif" />
 
+[🏠 Home](./README.md)
+
 # Project 1: Flashing Object
 
 1. Go to: https://makecode.microbit.org/

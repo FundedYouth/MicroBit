@@ -84,7 +84,13 @@ Expected Time Per Student: 30 minutes
 Description: Make a box move one space left to right without stopping
 ```
 
-- **Project 3: Rotating Clock Arm** - Rotate a line 360° like the big hand on a clock
+#### [Project 3: Hello Functions](./p1-hello-functions.md)
+
+```yaml
+Expected Time Per Student: 30 minutes
+Description: Rotate a line 360° like the big hand on a clock
+```
+
 - **Project 4: What is String?** - Using the "show string" block
 
 ### <span style="color: #9e00acff">2. The Microbit, Buttons, and Choices</span>
